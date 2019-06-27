@@ -238,7 +238,7 @@
   text-align: center;
   transform: translateY(100%);
 }
-.technology-nav .nav-box {
+/*.technology-nav .nav-box {
   animation: fadein 0.1s ease 1.4s forwards;
 }
 .technology-nav .nav-box section:nth-child(1) {
@@ -258,7 +258,7 @@
 }
 .technology-nav .nav-box section:nth-child(2) a:nth-child(2) {
   animation: technology__show-nav-text 0.7s ease 2.4s forwards;
-}
+}*/
 .technology-nav .message {
   animation: technology__show-message 0.4s ease 1s forwards, technology__hidden-message 0.5s ease 2s forwards;
 }
