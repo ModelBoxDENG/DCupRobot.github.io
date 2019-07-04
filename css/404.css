@@ -17,21 +17,21 @@ body {
 }
 figure.forrestgump {
   position: relative;
-  width: 100%;
+  width: 50%;
 }
 figure.forrestgump img {
-  width: 100%;
+  width: 50%;
 }
 figure.forrestgump figcaption {
   float: right;
   clear: right;
-  width: 100%;
+  width: 50%;
   padding: 0;
   text-align: right;
 }
 @media (min-width: 768.02px) {
   figure.forrestgump {
-    width: 30rem;
+    width: 15rem;
   }
   figure.forrestgump figcaption {
     width: 60%;
